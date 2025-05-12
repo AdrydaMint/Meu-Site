@@ -1,0 +1,15 @@
+body{background-color: rgb(221, 196, 196);}
+
+h1{color: rgb(22, 39, 105);font-size: 50px;text-align: center;}
+
+p{font-size: 20px; text-align: justify;}
+
+.lista{line-height: 45px; font-size: 20px;}
+
+.car{width: 400; border-radius: 40px;}
+
+.table{width: 300px; font-size: 20px;position: absolute;right: 200px;}
+
+.link{color: rgb(16, 101, 20);font-size: 20px;}
+
+.link:hover{color: blue;}
